@@ -1,0 +1,10 @@
+{
+  "display_name": "Pregnancy Tracker",
+  "loading_order": 101,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "Kartik",
+  "version": "1.0.0",
+  "homePage": ""
+}
